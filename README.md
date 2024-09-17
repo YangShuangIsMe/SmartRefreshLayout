@@ -2,14 +2,14 @@
 
 [![License](https://img.shields.io/badge/License%20-Apache%202-337ab7.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Arsenal](https://img.shields.io/badge/Arsenal%20-%20SmartRefresh-4cae4c.svg)](https://android-arsenal.com/details/1/6001)
-[![JCenter](https://img.shields.io/badge/%20JCenter%20-1.1.0-5bc0de.svg)](https://bintray.com/scwang90/maven/SmartRefreshLayout/_latestVersion)
+[![JCenter](https://img.shields.io/badge/%20JCenter%20-1.1.2-5bc0de.svg)](https://bintray.com/scwang90/maven/SmartRefreshLayout/_latestVersion)
 [![MinSdk](https://img.shields.io/badge/%20MinSdk%20-%2012%2B%20-f0ad4e.svg)](https://android-arsenal.com/api?level=12)
 [![Methods](https://img.shields.io/badge/Methods%20%7C%20Size%20-%20784%20%7C%20121%20KB-d9534f.svg)](http://www.methodscount.com/?lib=com.scwang.smartrefresh%3ASmartRefreshLayout%3A1.0.4)
 
 <!-- [![Platform](https://img.shields.io/badge/Platform-Android-f0ad4e.svg)](https://www.android.com) -->
 <!-- [![Author](https://img.shields.io/badge/Author-scwang90-11bbff.svg)](https://github.com/scwang90) -->
 
-## [English](README_EN.md) | 中文
+## [English](https://github.com/scwang90/SmartRefreshLayout/blob/master/README_EN.md) | 中文
 
 SmartRefreshLayout以打造一个强大，稳定，成熟的下拉刷新框架为目标，并集成各种的炫酷、多样、实用、美观的Header和Footer。
 正如名字所说，SmartRefreshLayout是一个“聪明”或者“智能”的下拉刷新布局，由于它的“智能”，它不只是支持所有的View，还支持多层嵌套的视图结构。
@@ -122,8 +122,8 @@ SmartRefreshLayout以打造一个强大，稳定，成熟的下拉刷新框架�
 [【V2.0.0】](https://github.com/scwang90/SmartRefreshLayout/tree/master#%E7%AE%80%E5%8D%95%E7%94%A8%E4%BE%8B) 版本已经在开发，主要是对各个功能类进行分包，比如不用二级刷新就不依赖，避免代码冗余，欢迎大家来体验
 
 ```
-implementation 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.0'  //1.0.5及以前版本的老用户升级需谨慎，API改动过大
-implementation 'com.scwang.smartrefresh:SmartRefreshHeader:1.1.0'  //没有使用特殊Header，可以不加这行
+implementation 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.3'  //1.0.5及以前版本的老用户升级需谨慎，API改动过大
+implementation 'com.scwang.smartrefresh:SmartRefreshHeader:1.1.3'  //没有使用特殊Header，可以不加这行
 
 ```
 如果使用 AndroidX 在 gradle.properties 中添加
@@ -263,6 +263,7 @@ SmartRefreshLayout 没有使用到：序列化、反序列化、JNI、反射，�
 [捐赠列表](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_donationlist.md)
 
 #### 友情链接
+[github/Loror](https://github.com/Loror)  
 [github/faith-hb/WidgetCase](https://github.com/faith-hb/WidgetCase)  
 [github/Bamboy120315/Freedom](https://github.com/Bamboy120315/Freedom)  
 [github/TommyLemon/APIJSON](https://github.com/TommyLemon/APIJSON)  
@@ -277,7 +278,7 @@ SmartRefreshLayout 没有使用到：序列化、反序列化、JNI、反射，�
 [github/addappcn](https://github.com/addappcn)  
 [github/RainliFu](https://github.com/RainliFu)  
 [github/sugarya](https://github.com/sugarya)  
-[github/stormzhang](https://github.com/stormzhang)
+[github/stormzhang](https://github.com/stormzhang)  
 
 ## 讨论
 
